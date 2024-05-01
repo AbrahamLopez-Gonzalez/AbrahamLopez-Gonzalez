@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋 I'm @AbrahamLopez-Gonzalez
+-🌱 Upgrading Software Developer Knowledge
+-📚 New graduate in Computer Science at Belhaven University
+-🌎 Bilingual | English | Spanish
+-💻 2 Years of C++ | 2 Years of Python | 2 Year of HTML | 1 Year of Javascript
+-📧 How to reach me: abraham.f.lopez.gonzalez@gmail.com
 <!--
 **AbrahamLopez-Gonzalez/AbrahamLopez-Gonzalez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
