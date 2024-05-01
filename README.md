@@ -1,5 +1,5 @@
 ### Hi there 👋 I'm @AbrahamLopez-Gonzalez
--🌱 Upgrading Software Developer Knowledge
+-🌱 Upgrading Software Developer Knowledge\n
 -📚 New graduate in Computer Science at Belhaven University
 -🌎 Bilingual | English | Spanish
 -💻 2 Years of C++ | 2 Years of Python | 2 Year of HTML | 1 Year of Javascript
